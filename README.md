@@ -13,3 +13,7 @@
 4. How is it different
 5. Real world application
 6. Clear, concise and well-evidenced. 
+
+## Thank you!
+For questions, please email 
+samantha.panek@dyson.com 
