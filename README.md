@@ -12,7 +12,14 @@
 3. Design process
 4. How is it different
 5. Real world application
-6. Clear, concise and well-evidenced. 
+6. Clear, concise and well-evidenced.
+
+## Dates
+March 12 - Entries Open 
+July 16 - Entries Close 
+September 10 - National Winners Announced
+October 15 - Top 20 Shortlist Announced
+November 5 - Global Winners Announced
 
 ## Thank you!
 For questions, please email 
